@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 
-const TEMPLE_PHOTO_URL = "/haeinsa.jpe"; // public/temple.jpg 사용 시 "/temple.jpg"로 변경
+const TEMPLE_PHOTO_URL = ""; // public/temple.jpg 사용 시 "/temple.jpg"로 변경
 const ROWS = 12;
 const COLS = 30;
 const TOTAL = ROWS * COLS;
